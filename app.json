@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/logo-no-background.png",
+      "backgroundColor": "#ffff"
+    },
+    "name": "ucare",
+    "slug": "ucare",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-no-background.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo-no-background.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-no-background.png",
+        "backgroundColor": "#ffff"
+      },
+      "splash": {
+        "image": "./assets/logo-no-background.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffff"
+      },
+      "package": "com.michaelonly.ucare"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5871f50a-baac-45b5-bf3e-126b0d697f1d"
+      }
+    }
+  }
+}
